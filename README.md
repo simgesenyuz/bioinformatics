@@ -1,6 +1,6 @@
 # Bioinformatics
 
-This repo contains notebooks related are related to bioinformatics/computational biology that I have written for various tasks.
+This repo contains notebooks related to bioinformatics/computational biology that I have written for various tasks.
 
 ## <ins>Mapping Uniprot Residues to PDB/mmCIF Residues:</ins> <br />
 &nbsp; In this task, we have the following dataset: [Docking Results](Residue_Mapping/Docking_Results.txt). This dataset contains PDB chains and the task is to get all residues of the PDB and map UniProt residues to PDB residues. <br /> 
