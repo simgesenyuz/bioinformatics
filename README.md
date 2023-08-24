@@ -7,4 +7,4 @@ This repo contains notebooks related are related to bioinformatics/computational
 &nbsp; Related codes: [Residue Mapping](Residue_Mapping/map_uniprot_residues_to_pdb_residues.ipynb)<br />  <br /> 
 &nbsp; <ins> Skills Used:</ins> <br /> 
 &nbsp; &nbsp; data cleaning with pandas DataFrames <br /> 
-&nbsp; &nbsp; using APIs to collect data in JSON format without saving any file anywhere. Specific APIs used: [PDBe API](https://www.ebi.ac.uk/pdbe/api/) and [PDBe Graph API](https://www.ebi.ac.uk/pdbe/graph-api/)
+&nbsp; &nbsp; using APIs to collect data in JSON format without saving any file anywhere. Specific APIs used: [PDBe API](https://www.ebi.ac.uk/pdbe/api/) and [PDBe Graph API](https://www.ebi.ac.uk/pdbe/graph-api/pdbe_doc/)
