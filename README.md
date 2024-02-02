@@ -17,4 +17,4 @@ This repo contains notebooks related to bioinformatics/computational biology tha
 &nbsp; Automated Pocket Extraction: Identifies potential ligand/drug binding sites automatically. <br /> 
 &nbsp; Related codes: [Pocket Extraction](Scripts_Drug_Repurposing/pdb_extract_pockets_v1.ipynb)<br />  <br /> 
 &nbsp; <ins> Skills Used:</ins> <br /> 
-&nbsp; &nbsp; using REST APIs to post and collect data in JSON format Specific API used: [ProteinPlus API](https://proteins.plus/api/dogsite_rest)
+&nbsp; &nbsp; using REST APIs to post and collect data in JSON format Specific API used: [ProteinPlus API](https://proteins.plus/help/dogsite_rest)
