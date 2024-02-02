@@ -8,3 +8,13 @@ This repo contains notebooks related to bioinformatics/computational biology tha
 &nbsp; <ins> Skills Used:</ins> <br /> 
 &nbsp; &nbsp; data cleaning with pandas DataFrames <br /> 
 &nbsp; &nbsp; using APIs to collect data in JSON format without saving any file anywhere. Specific APIs used: [PDBe API](https://www.ebi.ac.uk/pdbe/api/) and [PDBe Graph API](https://www.ebi.ac.uk/pdbe/graph-api/pdbe_doc/)
+
+## <ins>PDB Extract Ligand/Drug Binding Pockets v1:</ins> <br />
+&nbsp; In this task, we identify binding pockets within protein structures using PDB codes.
+
+&nbsp; Features:  <br /> 
+&nbsp; PDB Code Input: Users can input PDB codes directly to analyze specific protein structures (given PDB id and chain id). <br /> 
+&nbsp; Automated Pocket Extraction: Identifies potential ligand/drug binding sites automatically. <br /> 
+&nbsp; Related codes: [Pocket Extraction](Scripts_Drug_Repurposing/pdb_extract_pockets_v1.ipynb)<br />  <br /> 
+&nbsp; <ins> Skills Used:</ins> <br /> 
+&nbsp; &nbsp; using REST APIs to post and collect data in JSON format Specific API used: [ProteinPlus API](https://proteins.plus/api/dogsite_rest)
