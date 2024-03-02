@@ -18,3 +18,13 @@ This repo contains notebooks related to bioinformatics/computational biology tha
 &nbsp; Related codes: [Pocket Extraction](Scripts_Drug_Repurposing/pdb_extract_pockets_v1.ipynb)<br />  <br /> 
 &nbsp; <ins> Skills Used:</ins> <br /> 
 &nbsp; &nbsp; using REST APIs to post and collect data in JSON format Specific API used: [ProteinPlus API](https://proteins.plus/help/dogsite_rest)
+
+## <ins>Amino Acid Composition:</ins> <br />
+&nbsp; In this task, we identify the aminoacid composition of a set of protein chains.
+
+&nbsp; Related codes: [Aminoacid_Composition](aa_composition.py)<br />  <br /> 
+&nbsp; usage: python aa_composition.py filename.txt
+&nbsp; <ins> Skills Used:</ins> <br /> 
+&nbsp; &nbsp; using REST APIs to post and collect data in JSON format Specific API used: [PDBe REST API](https://www.ebi.ac.uk/pdbe/api/) <br /> 
+&nbsp; &nbsp; Various DataFrame operations <br /> 
+&nbsp; &nbsp; Getting input as a sys argument <br /> 
