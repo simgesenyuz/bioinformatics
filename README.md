@@ -27,4 +27,9 @@ This repo contains notebooks related to bioinformatics/computational biology tha
 &nbsp; <ins> Skills Used:</ins> <br /> 
 &nbsp; &nbsp; using REST APIs to post and collect data in JSON format Specific API used: [PDBe REST API](https://www.ebi.ac.uk/pdbe/api/) <br /> 
 &nbsp; &nbsp; Various DataFrame operations <br /> 
-&nbsp; &nbsp; Getting input as a sys argument <br /> 
+&nbsp; &nbsp; Getting input as a sys argument <br /> <br /> 
+
+&nbsp; Related codes: [Group Aminoacids by Types](aa_get_types.py)) <br />  <br /> 
+&nbsp; <ins> Skills Used:</ins> <br /> 
+&nbsp; &nbsp; Read multiple files from a directory if they have a specific name format ('aa_comp_*' in this case) and save to a df <br /> 
+&nbsp; &nbsp; Some dict operations and usage of df.apply <br /> 
